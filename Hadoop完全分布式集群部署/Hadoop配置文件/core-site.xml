@@ -1,0 +1,22 @@
+<property>
+
+  <name>hadoop.tmp.dir</name>
+
+  <value>file:/root/app/hadoop-2.6.0-cdh5.4.0/data/tmp</value>
+
+</property>
+
+<property>
+
+  <name>fs.defaultFS</name>
+
+  <value>hdfs://master:8020</value>
+
+</property>
+
+<property>
+
+  <name>hadoop.tmp.dir</name>
+  <value>/root/app/hadoop-2.6.0-cdh5.4.0/data/tmp</value>
+
+</property>

@@ -1,0 +1,31 @@
+<property>
+
+  <name>dfs.namenode.secondary.http-address</name>
+
+  <value>master:50090</value>
+
+</property>
+
+<property>
+
+  <name>dfs.replication</name>
+
+  <value>1</value>
+
+</property>
+
+<property>
+
+  <name>dfs.namenode.name.dir</name>
+
+  <value>file:/root/app/hadoop-2.6.0-cdh5.4.0/data/tmp/dfs/name</value>
+
+</property>
+
+<property>
+
+  <name>dfs.datanode.data.dir</name>
+
+  <value>file:/root/app/hadoop-2.6.0-cdh5.4.0/data/tmp/dfs/data</value>
+
+</property>
