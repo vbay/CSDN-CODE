@@ -22,25 +22,20 @@
 <!-- Put site-specific property overrides in this file. -->
 
 <configuration>
-
-<property>
-  <name>dfs.namenode.secondary.http-address</name>
-  <value>hadoop1:50090</value>
-</property>
-
-<property>
-  <name>dfs.replication</name>
-  <value>2</value>
-</property>
-
-<property>
-  <name>dfs.namenode.name.dir</name>
-  <value>file:/home/xiaolei/hadoop/hdfs/name</value>
-</property>
-
-<property>
-  <name>dfs.datanode.data.dir</name>
-  <value>file:/home/xiaolei/hadoop/hdfs/data</value>
-</property>
-
+    <property>
+      <name>dfs.namenode.secondary.http-address</name>
+      <value>hadoop1:50090</value>
+    </property>
+    <property>
+      <name>dfs.replication</name>
+      <value>2</value>
+    </property>
+    <property>
+      <name>dfs.namenode.name.dir</name>
+      <value>file:/home/xiaolei/hadoop/hdfs/name</value>
+    </property>
+    <property>
+      <name>dfs.datanode.data.dir</name>
+      <value>file:/home/xiaolei/hadoop/hdfs/data</value>
+    </property>
 </configuration>
