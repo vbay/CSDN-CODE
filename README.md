@@ -18,3 +18,16 @@
      - hadoop2.7.3.sh		
      - jdk1.8.sh
    - 增加Spring案例
+
+ - [用windows浏览器打开Linux的Jupyter notebook开发、调试示](http://blog.csdn.net/dream_an/article/details/53333504)
+   - [Jupyter-notebook-config远程服务配置](https://github.com/wxiaolei/CSDN-CODE/tree/master/Jupyter-notebook-config%E8%BF%9C%E7%A8%8B%E6%9C%8D%E5%8A%A1%E9%85%8D%E7%BD%AE)
+     - .jupyter
+       - jupyter_notebook_config.py
+       - migrated
+       - mycert.pem
+       - mykey.key
+   配置结果
+
+   ![登录Jupyter notebook](http://img.blog.csdn.net/20161125133705174)
+
+   ![在Jupyter notebook上spark编程](http://img.blog.csdn.net/20161125133757987)
