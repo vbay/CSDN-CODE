@@ -28,6 +28,6 @@
        - mykey.key
    配置结果
 
-   ![登录Jupyter notebook](http://img.blog.csdn.net/20161125133705174)
+   [登录Jupyter notebook](http://img.blog.csdn.net/20161125133705174)
 
-   ![在Jupyter notebook上spark编程](http://img.blog.csdn.net/20161125133757987)
+   [在Jupyter notebook上spark编程](http://img.blog.csdn.net/20161125133757987)
