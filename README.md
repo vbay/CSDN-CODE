@@ -45,8 +45,8 @@
     - 源码文件 SparkJavaIdea
     - 图1，直接在intellij IDEA(社区版)中开发调试，直接run。
 
-   ![](../resources/imgs/SparkJavaIdea/SparkJavaIdea-13.png)
+   ![](https://github.com/wxiaolei/CSDN-CODE/blob/master/resources/imgs/SparkJavaIdea/SparkJavaIdea-13.png)
 
     - 图2，直接在intellij IDEA(社区版)中用hadoop YARN模式。
 
-   ![](../resources/imgs/SparkJavaIdea/SparkJavaIdea-8runlocal.png)
+   ![](https://github.com/wxiaolei/CSDN-CODE/blob/master/resources/imgs/SparkJavaIdea/SparkJavaIdea-8runlocal.png)
