@@ -1,4 +1,4 @@
-# [spark (java API) 在Intellij IDEA中开发并运行]
+# [spark (java API) 在Intellij IDEA中开发并运行](http://blog.csdn.net/dream_an/article/details/54915894)
 # [CSDN博文地址](http://blog.csdn.net/dream_an)
 
 ## 概述：Spark 程序开发，调试和运行，intellij idea开发Spark java程序。
