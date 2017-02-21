@@ -9,12 +9,12 @@ Apache-Beam-WordCount/
 - pom.xml
 - README.md
 - src
-    - main
-       - java
-          - WordCount.java
-       - resources
-    - test
-        - java
+  - main
+    - java
+      - WordCount.java
+  - resources
+  - test
+    - java
 
 
 ![Apache Beam WordCount编程实战及源码解读](../resources/imgs/ApacheBeam/BI-8idearun.png)
