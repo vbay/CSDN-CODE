@@ -67,16 +67,16 @@
    ## 源码目录结构
 
    Apache-Beam-WordCount/
-   ├── ApacheBeamWordCount.iml
-   ├── pom.xml
-   ├── README.md
-   └── src
-       ├── main
-       │   ├── java
-       │   │   └── WordCount.java
-       │   └── resources
-       └── test
-           └── java
+   - ApacheBeamWordCount.iml
+   - pom.xml
+   - README.md
+   - src
+     - main
+       - java
+         - WordCount.java
+     - resources
+     - test
+       - java
 
 
    ![Apache Beam WordCount编程实战及源码解读](./resources/imgs/ApacheBeam/BI-8idearun.png)
